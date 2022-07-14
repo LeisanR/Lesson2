@@ -1,10 +1,17 @@
 This is my file 
 
+<<<<<<< HEAD
 Hello
+=======
+Hi
+>>>>>>> firstBranch
 
 1
 2
 3
 4
 5
+<<<<<<< HEAD
 6
+=======
+>>>>>>> firstBranch
