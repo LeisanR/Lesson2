@@ -1,17 +1,25 @@
 This is my file 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 Hi
 >>>>>>> firstBranch
+=======
+Hi
+>>>>>>> eb83eda7da84456676d9ee64a23527b036df7d2b
 
 1
 2
 3
 4
+<<<<<<< HEAD
 5
 <<<<<<< HEAD
 
 =======
 >>>>>>> firstBranch
+=======
+5
+>>>>>>> eb83eda7da84456676d9ee64a23527b036df7d2b
